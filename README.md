@@ -8,4 +8,5 @@ coded, but also on the challenging aspect of the game.
 In the documentation we analyze in detail every technical aspect and provide a user
 manual with instructions for playing the game.
 
-[Demo](https://github.com/MarcoSchaerfCourses/final-project-for-interactive-graphics-course-meteorite-apocalypse)
+# Demo:
+https://marcoschaerfcourses.github.io/final-project-for-interactive-graphics-course-meteorite-apocalypse/
